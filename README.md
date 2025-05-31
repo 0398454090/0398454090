@@ -1,4 +1,11 @@
-Phạm Phương Ngọc: Node.js Backend Developer
+<h1 align="center">HI EVERYONE 👋😊</h1>
+
+<p align="center"><b>Phạm Phương Ngọc: Node.js Backend Developer.</b></p>
+
+<p align="center">
+
+Phạm Phương Ngọc: Node.js Backend Developer.
+
 I'm Phạm Phương Ngọc, a Node.js Backend Developer from Vietnam. While I’ve learned the Dart language for Flutter development, my main focus is currently on backend development using Node.js with JavaScript and TypeScript. I primarily work with the Express.js framework to build scalable and efficient backend systems.
 
 In addition to backend, I'm also open and ready to take on frontend tasks. I have hands-on experience with frontend technologies such as React.js, Tailwind CSS, HTML, and CSS. This full-stack knowledge allows me to collaborate effectively across different parts of a project and ensure seamless integration between the backend and frontend.
